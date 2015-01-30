@@ -7,6 +7,6 @@ Task:
 
 
 
--create a siimple website using html and css.
+-create a simple website using html and css.
 
 -ensure accessibility for people with disabilities.
